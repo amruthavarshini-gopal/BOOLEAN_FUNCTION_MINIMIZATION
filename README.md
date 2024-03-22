@@ -12,7 +12,9 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-## Software – Quartus prime:
+## Software:
+
+Quartus prime
 
 ## Procedure:
 
